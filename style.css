@@ -1,0 +1,26 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffe6e6; /* Light Pink */
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+button {
+    font-size: 18px;
+    margin: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.cute-pic {
+    max-width: 300px;
+    margin-bottom: 20px;
+}
